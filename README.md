@@ -1,2 +1,2 @@
 # Website
-HTML ödevi
+www.patika.dev
